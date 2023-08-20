@@ -1,9 +1,0 @@
-__pycache__/
-.env
-.Python
-.ipynb_checkpoints
-.venv
-dist/
-env/
-venv/
-build/
